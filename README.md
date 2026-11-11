@@ -1,5 +1,5 @@
 # Nimrod Ryder
-AI engineer · LLM agents and evaluation · Israel
+AI engineer · LLM agents and evaluation
 
 I build AI agents and the tests that check what they claim.
 
@@ -13,6 +13,6 @@ I build AI agents and the tests that check what they claim.
 Decide before looking. Audit my own claims. Keep the failures in the record.
 
 ## Also
-Jiu Jitsu World Champion, 3× World Games gold medalist, Israeli national team.
+Jiu Jitsu World Champion, 3× World Games gold medalist.
 
 [Website](https://nimrodryder.com) · [Holotype](https://holotype.science) · [Eidolum](https://eidolum.com) · [LinkedIn](https://www.linkedin.com/in/nimrod-ryder-956007286) · [ORCID](https://orcid.org/0009-0001-7609-0810) · [Email](mailto:nimrodryder@gmail.com)
